@@ -1,0 +1,49 @@
+.main {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.divStudent {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3%;
+}
+
+.btn {
+  width: 250px;
+  height: 50px;
+  border-radius: 25px;
+  align-items: center;
+  /* align-self: center; */
+  background-color: rgb(214, 220, 224);
+}
+
+.btn h2 {
+  display: inline;
+}
+
+.divStudent h1 {
+  display: inline;
+}
+
+.divTable {
+  background-color: aliceblue;
+}
+
+.tables {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  padding: 10px;
+}
+
+td {
+  padding: 5px;
+  padding-left: 10px;
+}
+
+tr td a {
+  color: rgb(35, 85, 222);
+}

@@ -1,0 +1,15 @@
+h2 {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.DivNav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(5, 5, 96);
+  margin-bottom: 3%;
+}
